@@ -1,0 +1,2 @@
+git remote add origin https://github.com/Eddy1968-12/www.gruene-bad-laasphe.de.git
+ git push -u origin master
